@@ -1,0 +1,6 @@
+{
+  "name": "NourishKids - Indian Meal & Nutrition Planner",
+  "description": "Comprehensive Indian pediatric meal planner for 3 & 4 year old kids, featuring ICMR-RDA vitamin and mineral tracking, interactive pulse & food simulator, monthly grocery purchase calculator, and an AI pediatric nutrition advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
